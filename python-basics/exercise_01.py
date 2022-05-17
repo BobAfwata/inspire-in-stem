@@ -98,3 +98,12 @@ print(" x ^ y = ", pow)
 
 # Floats  : any number with a decimal point a float
 
+
+
+
+#User Inputs
+
+fname = input("Enter first name:")
+print("Name  is: " + f_name)
+
+
