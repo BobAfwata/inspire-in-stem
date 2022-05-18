@@ -10,7 +10,8 @@ Add link to downloading vs code
 
 Add link to downloading git for windows 
 
-[./images/lesson1.PNG]
+![Lesson 1 ](./images/lesson1.PNG)
+
 
 strings 
      replace() 
@@ -20,7 +21,7 @@ strings
      upper()
      lower()
      len()
-     
+
 
 ## Week 2 : Electronics for Innovators 
 
