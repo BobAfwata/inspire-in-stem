@@ -19,7 +19,7 @@
 
 
 radius = input("Enter the radius of the circle")
-
+PI = 3.142
 
 
 #
